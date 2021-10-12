@@ -1,0 +1,38 @@
+
+
+
+.item {
+    height: 100px;
+    width: 200px;
+}
+
+.tekst {
+    font-family: sans-serif;
+    color: white;
+    margin-left: 800px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.logo {
+    margin-left: 925px;
+    
+}
+
+.logo img{
+    height: 150px;
+}
+
+a {
+    margin-left: 800px;
+    border: 5px solid orange;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: orange;
+    padding: 10px 0 10px 0;
+    font-family: sans-serif;
+}
+
+
+
